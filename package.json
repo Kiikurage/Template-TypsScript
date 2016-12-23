@@ -1,0 +1,22 @@
+{
+	"name": "react-typescript-template",
+	"version": "0.0.0",
+	"description": "",
+	"licesnse": "MIT",
+	"scripts": {
+		"gulp": "gulp"
+	},
+	"author": [
+		{
+			"name": "Kikurage",
+			"email": "y.kikura@gmail.com"
+		}
+	],
+	"dependencies": {
+		"del": "^2.2.1",
+		"gulp": "git://github.com/gulpjs/gulp.git#4.0",
+		"gulp-load-plugins": "^1.2.4",
+		"gulp-typescript": "^2.13.6",
+		"typescript": "^2.1.4"
+	}
+}
